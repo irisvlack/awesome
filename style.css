@@ -60,7 +60,7 @@ body {
     margin-bottom: 20px;
 }
 
-.s2 img, .s2 .i1 img {
+.s1 img, .s2 .i1 img {
     width: 100%;
     height: auto;
 }
@@ -76,12 +76,10 @@ body {
 }
 
 footer {
-    background-color: #1a1a1a;
-    padding: 20px;
+    background-color: #555;
     text-align: center;
-    color: #fff;
-    font-size: 14px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    padding: 30px;
+    color: #1a1a1a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
 }
